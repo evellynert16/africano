@@ -1,5 +1,5 @@
 :root {
-  --cinza: rgb(0, 0, 0);
+  --cinza: rgba(0, 0, 0, 0.295);
   --vermelha: #000000;
   --vermelha-escura: #af303f;
   --branca: #fff;
