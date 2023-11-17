@@ -1,14 +1,14 @@
-function tocaSomPom() {
-    document.querySelector('#som_tecla_pom').play();
+function tocaSomatabaque() {
+    document.querySelector('#som_tecla_atabaque').play();
 }
 
-document.querySelector('.tecla_pom').onclick = tocaSomPom;
+document.querySelector('.tecla_atabaque').onclick = tocaSomatabaque;
 
-function tocaSomClap() {
-    document.querySelector('#som_tecla_clap').play();
+function tocaSomdjembe() {
+    document.querySelector('#som_tecla_djembe').play();
 }
 
-document.querySelector('.tecla_clap').onclick = tocaSomClap;
+document.querySelector('.tecla_djembe').onclick = tocaSomdjembe;
 
 function tocaSomTim() {
     document.querySelector('#som_tecla_tim').play();
