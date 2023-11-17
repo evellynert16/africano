@@ -10,29 +10,29 @@ function tocaSomdjembe() {
 
 document.querySelector('.tecla_djembe').onclick = tocaSomdjembe;
 
-function tocaSomTim() {
-    document.querySelector('#som_tecla_tim').play();
+function tocaSomchocalho() {
+    document.querySelector('#som_tecla_chocalho').play();
 }
 
-document.querySelector('.tecla_tim').onclick = tocaSomTim;
+document.querySelector('.tecla_chocalho').onclick = tocaSomchocalho;
 
-function tocaSomPuff() {
-    document.querySelector('#som_tecla_puff').play();
+function tocaSomkalimba() {
+    document.querySelector('#som_tecla_kalimba').play();
 }
 
-document.querySelector('.tecla_puff').onclick = tocaSomPuff;
+document.querySelector('.tecla_kalimba').onclick = tocaSomkalimba;
 
-function tocaSomSplash() {
-    document.querySelector('#som_tecla_splash').play();
+function tocaSomtambores() {
+    document.querySelector('#som_tecla_tambores').play();
 }
 
-document.querySelector('.tecla_splash').onclick = tocaSomSplash;
+document.querySelector('.tecla_tambores').onclick = tocaSomtambores;
 
-function tocaSomToim() {
-    document.querySelector('#som_tecla_toim').play();
+        function tocareco reco() {
+    document.querySelector('#som_tecla_reco reco').play();
 }
 
-document.querySelector('.tecla_toim').onclick = tocaSomToim;
+document.querySelector('.tecla_reco reco').onclick = tocaSomreco reco;
 
 function tocaSomPsh() {
     document.querySelector('#som_tecla_psh').play();
