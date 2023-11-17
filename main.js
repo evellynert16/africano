@@ -1,38 +1,38 @@
-function tocaSomatabaque() {
-    document.querySelector('#som_tecla_atabaque').play();
+function tocaSomPom() {
+    document.querySelector('#som_tecla_pom').play();
 }
 
-document.querySelector('.tecla_atabaque').onclick = tocaSomatabaque;
+document.querySelector('.tecla_pom').onclick = tocaSomPom;
 
-function tocaSomdjembe() {
-    document.querySelector('#som_tecla_djembe').play();
+function tocaSomClap() {
+    document.querySelector('#som_tecla_clap').play();
 }
 
-document.querySelector('.tecla_djembe').onclick = tocaSomdjembe;
+document.querySelector('.tecla_clap').onclick = tocaSomClap;
 
-function tocaSomchocalho() {
-    document.querySelector('#som_tecla_chocalho').play();
+function tocaSomTim() {
+    document.querySelector('#som_tecla_tim').play();
 }
 
-document.querySelector('.tecla_chocalho').onclick = tocaSomchocalho;
+document.querySelector('.tecla_tim').onclick = tocaSomTim;
 
-function tocaSomkalimba() {
-    document.querySelector('#som_tecla_kalimba').play();
+function tocaSomPuff() {
+    document.querySelector('#som_tecla_puff').play();
 }
 
-document.querySelector('.tecla_kalimba').onclick = tocaSomkalimba;
+document.querySelector('.tecla_puff').onclick = tocaSomPuff;
 
-function tocaSomtambores() {
-    document.querySelector('#som_tecla_tambores').play();
+function tocaSomSplash() {
+    document.querySelector('#som_tecla_splash').play();
 }
 
-document.querySelector('.tecla_tambores').onclick = tocaSomtambores;
+document.querySelector('.tecla_splash').onclick = tocaSomSplash;
 
-        function tocareco reco() {
-    document.querySelector('#som_tecla_reco reco').play();
+function tocaSomToim() {
+    document.querySelector('#som_tecla_toim').play();
 }
 
-document.querySelector('.tecla_reco reco').onclick = tocaSomreco reco;
+document.querySelector('.tecla_toim').onclick = tocaSomToim;
 
 function tocaSomPsh() {
     document.querySelector('#som_tecla_psh').play();
@@ -62,4 +62,4 @@ function tocaSomTom() {
     document.querySelector('#som_tecla_tom').play();
 }
 
-document.querySelector('.tecla_tom').onclick = tocaSomTom
+document.querySelector('.tecla_tom').onclick = tocaSomTom;
